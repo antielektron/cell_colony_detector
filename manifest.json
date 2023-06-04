@@ -1,0 +1,1 @@
+{"name": "cell_colony_detector", "short_name": "cell_colony_detector", "start_url": "./index.html", "scope": ".", "display": "standalone", "background_color": "#000000", "theme_color": "#ffffff", "icons": [{"src": "resources/icon-512x512.png", "type": "image/png", "sizes": "512x512"}]}
